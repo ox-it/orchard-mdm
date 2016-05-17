@@ -1,5 +1,5 @@
 # orchard-mdm
-Documentation relating to Mobile Device Management in Orchard. Orchard is the Apple device management platform developed by IT Services, Unversity of Oxford, using JAMF Casper Suite, Munki, AutoPkg and other OSS technologies. Please reuse these if they are helpful to you.
+Documentation relating to Mobile Device Management in Orchard. Orchard is the Apple device management platform developed by IT Services, University of Oxford, using JAMF Casper Suite, Munki, AutoPkg and other OSS technologies. Please reuse these if they are helpful to you.
 
 ## *2016-05-16_ADAM_Apple_MDM_and_DEP.pdf*
 
